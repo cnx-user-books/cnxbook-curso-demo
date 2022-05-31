@@ -1,0 +1,32 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>Modulo Demo 2</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>8141ccbc-e3da-4143-b554-d522535f7da2</md:uuid>
+</metadata>
+<content>
+<section id="id14609444">
+<title>Ejemplo 1</title>
+<section id="id14609498">
+<title>Este es un ejemplo</title>
+<para id="id14609548">Begin by clicking on the section title and
+entering your own. Next, type the module text. Use styles such as
+CNXML Term, CNXML Code, CNXML Emphasis, and CNXML Link to style the
+body text of your document. Feel free to use built in styles such
+as Heading 1, Heading 2, to mark up the document sections. These
+headings will be used to create sections in your module. Using the
+CNXML styles in conjunction with some of the built in word styles
+will make it much easier to convert your Word document into
+CNXML.</para>
+<para id="id14607647">Note: You will need to highlight and delete
+all unnecessary text including the section title and paragraph
+directly above, before uploading your module.</para>
+<para id="id14609100">To save changes to this template for future
+use, choose Save As from the File menu. In the Save As Type box,
+choose Document Template. Next time you want to use it, choose New
+from the File menu, and then double-click your template.</para>
+<figure id="id14518518">
+<media id="idp2035008" alt=""><image src="../../media/Graphic1" mime-type="image/jpeg"/></media>
+</figure>
+</section>
+</section>
+</content>
+</document>
