@@ -1,3 +1,18 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10324</md:content-id>  <md:title>Curso Demo</md:title>      <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License 2.0</md:license>  <md:language>en</md:language>              <md:uuid>2a79bd88-4ac7-472b-9eef-0076fc9e5960</md:uuid>
-<md:slug>curso-demo</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Seccion Demo</md:title>                                <col:content>                  </col:content>      </col:subcollection>              <col:module document="m13257"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Erik Rivera Morales">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10324</md:content-id>
+    <md:title>Curso Demo</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License 2.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>2a79bd88-4ac7-472b-9eef-0076fc9e5960</md:uuid>
+    <md:slug>curso-demo</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Seccion Demo</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:module document="m13257"/>
+  </col:content>
+</col:collection>
